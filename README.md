@@ -2,6 +2,9 @@
 Exercice pédagogique pour manipuler GitHub
 
 
+Voici le travail de Pam, Nath et Laetita 
+
+
 git branch BRANCHNAME : to create a new branch named BRANCHNAME
 
 git switch BRANCHNAME : to go from the branch you are to the branch BRANCHNAME
